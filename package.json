@@ -1,0 +1,19 @@
+{
+  "name": "itsbunno.neocities.org",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itschesterlk/itsbunno.neocities.org.git"
+  },
+  "author": "Bunno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itschesterlk/itsbunno.neocities.org/issues"
+  },
+  "homepage": "https://github.com/itschesterlk/itsbunno.neocities.org#readme"
+}
